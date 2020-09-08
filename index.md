@@ -1,2 +1,2 @@
-#Welcome to GEOG 586!  
+# Welcome to GEOG 586!  
 This is the space for our labs and possibly your final projects. Throughout the term, I will create folders for each of the labs, and you will push your lab results to that folder. If all this technical stuff is child's play for you, feel free to create your own personal repo for uploading all your assignments there -- but be careful! If you've never worked with Github before, it can quickly spiral out of control! 
